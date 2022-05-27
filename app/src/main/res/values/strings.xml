@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="add_mag">Добавить магазин</string>
+    <string name="add_product">Добавить Продукт</string>
+    <string name="start">Start</string>
+    <string name="product">Найти продукт</string>
+    <string name="shop">Найти магазин</string>
+
+</resources>
