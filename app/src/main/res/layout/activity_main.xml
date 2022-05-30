@@ -10,8 +10,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="339dp"
-        android:layout_height="231dp"
+        android:layout_width="347dp"
+        android:layout_height="261dp"
         android:layout_marginStart="36dp"
         android:layout_marginTop="40dp"
         android:text="Добро пожаловать в приложение petshop! В нем вы можете найти удобный магазин или нужный продукт для вашего питомца, а так же добавить новый магазин или товар "
@@ -24,7 +24,7 @@
         android:id="@+id/imageView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="196dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/olgaaaaaaaa" />
